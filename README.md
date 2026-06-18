@@ -121,8 +121,8 @@ node index.js
 ## 🎥 Demo Video
 
 
-[![Watch Demo](demo.png)](https://drive.google.com/file/d/1BK0nevAXjeosVDD5LH4Ekq9_-GVs6DGM/view?usp=sharing)
-
+1. A simple workflow : [![Workflow](demo.png)](https://drive.google.com/file/d/1BK0nevAXjeosVDD5LH4Ekq9_-GVs6DGM/view?usp=sharing)
+2. Check Authentication : [![Authentication](demo.png)](https://drive.google.com/file/d/1Ug5bq6nvTiLtwfj0VrxFRXoJQ-AzgXlk/view?usp=drive_link)
 
 ---
 
