@@ -120,11 +120,9 @@ node index.js
 
 ## 🎥 Demo Video
 
-```
-## 🎥 Demo Video
 
 [![Watch Demo](demo.png)](https://drive.google.com/file/d/1BK0nevAXjeosVDD5LH4Ekq9_-GVs6DGM/view?usp=sharing)
-```
+
 
 ---
 
